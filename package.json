@@ -1,0 +1,24 @@
+{
+  "name": "stockfish-bench",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elviswolcott/stockfish-bench.git"
+  },
+  "author": "Elvis Wolcott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elviswolcott/stockfish-bench/issues"
+  },
+  "homepage": "https://github.com/elviswolcott/stockfish-bench#readme",
+  "dependencies": {
+    "chess.js": "^0.11.0",
+    "stockfish-native": "^0.3.0"
+  }
+}
