@@ -1,5 +1,5 @@
 const Stockfish = require("stockfish-native").default;
-const matches = require("./matches.json").slice(0, 2);
+const matches = require("./matches.json");
 const { Chess } = require("chess.js");
 const { performance } = require("perf_hooks");
 const fs = require("fs");
